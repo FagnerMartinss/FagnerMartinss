@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao meu  perfil ( Fagner Martins!!!)😁😁😁
+## Olá! Sou o Fagner, um desenvolvedor em transição de carreira / estudante focado em Desenvolvimento Web Frontend. Atualmente estou aprofundando meus conhecimentos em HTML5, CSS3 e JavaScript para criar interfaces interativas e responsivas.
 
  <div>
    <a href="https://github.com/FagnerMartinss">
